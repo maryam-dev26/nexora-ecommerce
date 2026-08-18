@@ -1,8 +1,11 @@
 import React from 'react'
 
+import { initialProducts } from '../Data/product'
 const CategoryFilter = () => {
   return (
-    <div>CategoryFilter</div>
+    <>
+
+    </>
   )
 }
 
